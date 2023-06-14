@@ -1,4 +1,3 @@
-#from admin_page import Admin
 from food_app import FoodOrderingApp
 
 class Main:
