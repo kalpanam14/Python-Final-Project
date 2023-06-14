@@ -136,4 +136,4 @@ class FoodOrderingApp:
             self.current_user.phone_number = phone_number
             self.current_user.address = address
             self.current_user.password = password
-        print("Profile updated successfully!")
+            print("Profile updated successfully!")
